@@ -7,7 +7,9 @@ public class Druga {
 	}
     
 	Integer liczba = new Integer(10);
-	
+
+    String mojaZmienna = "Cos tu jest";
+    
 	public void metoda() {
 	}
 
