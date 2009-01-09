@@ -10,6 +10,8 @@ public class Druga {
 
     String mojaZmienna = "Cos tu jest";
     
+    String zEclipsa = "To ja Eclipse";
+    
 	public void metoda() {
 	}
 
