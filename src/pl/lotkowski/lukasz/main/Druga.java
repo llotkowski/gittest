@@ -6,6 +6,4 @@ public class Druga {
 		System.out.println("Cos tu powinno");
 	}
 	
-	
-	
 }
