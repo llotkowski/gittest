@@ -12,6 +12,8 @@ public class Druga {
     
     String zEclipsa = "To ja Eclipse";
     
+    String zEclipsa2 = "To ja Eclipse 2";
+    
 	public void metoda() {
 	}
 
