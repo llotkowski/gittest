@@ -6,20 +6,14 @@ public class Druga {
 		System.out.println("Cos tu powinno");
 	}
 	
+	
+	
 	Integer liczba = new Integer(10);
 	
 	public void metoda() {
-		int w = 10;
 	}
 
 	public void method() {
 		
 	}
-
-	
-	
-	
-	
-	
-	
 }
