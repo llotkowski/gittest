@@ -5,5 +5,13 @@ public class Druga {
 	public static void main(String[] args) {
 		System.out.println("Cos tu powinno");
 	}
+    
+	Integer liczba = new Integer(10);
 	
+	public void metoda() {
+	}
+
+	public void method() {
+		
+	}
 }
