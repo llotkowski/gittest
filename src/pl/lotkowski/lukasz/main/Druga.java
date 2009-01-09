@@ -8,12 +8,4 @@ public class Druga {
 	
 	
 	
-	Integer liczba = new Integer(10);
-	
-	public void metoda() {
-	}
-
-	public void method() {
-		
-	}
 }
